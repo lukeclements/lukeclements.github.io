@@ -51,18 +51,6 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
@@ -74,52 +62,4 @@
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
-}
+
