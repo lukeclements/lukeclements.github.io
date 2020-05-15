@@ -4,12 +4,12 @@
     "label": "Student",
     "picture": "https://lukeclements.github.io/images/luke.jpeg",
     "email": "lclement@hawaii.edu",
-    "phone": "(530)945-4715",
+    "phone": "",
     "website": "https://lukeclements.github.io",
     "summary": "I am studying for a B.B.A. in Management Information Studies in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Fall, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -29,37 +29,94 @@
   },
   "interests": [
     {
-      "name": "Traveling"
+      "name": "traveling",
+      "keywords": [
+      ]
     },
     {
-      "name": "Video Games"
+      "name": "gaming",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        "",
+        "",
+        "",
+        ""
+      ]
     },
     {
-      "name": "Cars"
+      "name": "",
+      "level": "",
+      "keywords": [
+        "",
+        ""
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Fall, 2020)",
+      "area": "Management Information Systems",
       "studyType": "B.B.A",
       "startDate": "2016-09-01",
-      "endDate": "Present",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
       "gpa": "",
       "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2018-09-01",
-      "endDate": "2019-09-01",
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
       ]
     }
-
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
